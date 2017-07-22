@@ -1,17 +1,6 @@
 # pife
 Jogo de cartas conhecido como Pife ou Pif-Paf desenvolvido em Pascal
 
-██████     ██     ███
- ██  ██    ██    ██ ██
- ██  ██          ██
- ██  ██  ████    ██      ████
- █████     ██   █████   ██  ██
- ██        ██    ██     ██████
- ██        ██    ██     ██
- ██        ██    ██     ██  ██
-████     ██████ ████     ████
-
-
 INTERFACE:
 
 O programa será executado numa janela DOS. Para melhorar a interface, siga as etapas abaixo:
@@ -76,21 +65,7 @@ Ganha o jogo quem primeiro conseguir formar 3 trincas.
 Considera-se uma trinca:
 
 • três cartas com valores iguais e naipes diferentes
-   █████████████████████
-   ██     █     █     ██
-   ██ 7   █ 7   █ 7   ██
-   ██ ♦   █ ♠   █ ♥   ██
-   ██     █     █     ██
-   ██     █     █     ██
-   █████████████████████
+7♦ 7♠ 7♥
 
 • três cartas com valores em sequência e naipes iguais
-   █████████████████████
-   ██     █     █     ██
-   ██ 2   █ 3   █ 4   ██
-   ██ ♣   █ ♣   █ ♣   ██
-   ██     █     █     ██
-   ██     █     █     ██
-   █████████████████████
-
-
+2♣ 3♣ 4♣
